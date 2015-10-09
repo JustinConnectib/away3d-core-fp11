@@ -1,3 +1,5 @@
+Same as normal but slight adjustments for starling shared context.
+
 Copyright 2011 The Away3D Team
 
 Licensed under the Apache License, Version 2.0 (the "License");
