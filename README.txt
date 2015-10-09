@@ -1,4 +1,6 @@
-``Same as normal but slight adjustments for starling shared context.``
+__________________________________________________________________
+Slight adjustments for starling shared context.
+__________________________________________________________________
 
 Copyright 2011 The Away3D Team
 
